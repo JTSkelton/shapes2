@@ -1,0 +1,23 @@
+{
+  "name": "shapes2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JTSkelton/shapes2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JTSkelton/shapes2/issues"
+  },
+  "homepage": "https://github.com/JTSkelton/shapes2#readme",
+  "devDependencies": {
+    "webpack": "4.39.3"
+  }
+}
